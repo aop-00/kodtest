@@ -2,11 +2,8 @@ package com.example.kodtest.model;
 
 import lombok.*;
 
-@Getter
-@Setter
+@Data
 @Builder(setterPrefix = "with")
-@ToString
-@EqualsAndHashCode
 public class Comment {
 
     /**
