@@ -7,7 +7,7 @@ import lombok.*;
 public class Comment {
 
     /**
-     * Object used represent a comment
+     * Object used to represent a comment
      */
 
     private int postId;
